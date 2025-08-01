@@ -8,7 +8,7 @@ This repository contains Python scripts used for generative and ML models for va
 </div>
 
 <div align="center">
-  <img src="Supporting Information/GAbstract.png" alt="image" width="433" height="188">
+  <img src="Supporting Information/GAbstract.png" alt="image" width="1014" height="256">
 </div>
 
 

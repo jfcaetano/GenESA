@@ -1,7 +1,7 @@
 # GenESA - Inverse Ligand Design for ESA Reactions
 Repository for the article "Inverse Ligand Design: A Generative Data-Driven Model for Optimizing Vanadyl-Based Epoxidation Catalysts"
 
-This repository contains Python scripts used for optimizing generative and ML models in the ESA reaction dataset. The scripts are designed for various stages of descriptor generation, model training, hyperparameter tuning, SMILES generation and result evaluation. Below is an explanation of the key scripts and their roles.
+This repository contains Python scripts used for generative and ML models for vanadyl-based catalyst ligands design for the epoxidation of small alkenes and alcohols (ESA). The scripts are designed for various stages of descriptor generation, model training, hyperparameter tuning, SMILES generation and result evaluation. Below is an explanation of the key scripts and their roles.
 
 <div align="center">
   <img width="1014" height="256" alt="Screenshot 2025-08-01 at 12 13 28" src="https://github.com/user-attachments/assets/484bb9dc-29e8-4fed-81fb-a2c8929d1bf8" />

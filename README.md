@@ -7,6 +7,11 @@ This repository contains Python scripts used for generative and ML models for va
   <img width="1014" height="256" alt="Screenshot 2025-08-01 at 12 13 28" src="https://github.com/user-attachments/assets/484bb9dc-29e8-4fed-81fb-a2c8929d1bf8" />
 </div>
 
+<div align="center">
+  <img src="Supporting Information/GAbstract.png" alt="image" width="433" height="188">
+</div>
+
+
 ## Scripts Overview
 
 

@@ -3,9 +3,9 @@ Repository for the article "Inverse Ligand Design: A Generative Data-Driven Mode
 
 This repository contains Python scripts used for optimizing generative and ML models in the ESA reaction dataset. The scripts are designed for various stages of descriptor generation, model training, hyperparameter tuning, SMILES generation and result evaluation. Below is an explanation of the key scripts and their roles.
 
-
-<img width="465" height="117" alt="image" src="https://github.com/user-attachments/assets/d3301292-fa21-464c-9888-67b5d9cddd54" />
-
+<div align="center">
+  <img width="465" height="117" alt="image" src="https://github.com/user-attachments/assets/d3301292-fa21-464c-9888-67b5d9cddd54" />
+</div>
 
 ## Scripts Overview
 

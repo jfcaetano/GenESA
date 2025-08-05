@@ -158,6 +158,7 @@ v) Fingerprint density penalty (related to fragment diversity vs size)
 
 ### 16. New Substrate Generation
 Script generates substrate SMILES from descriptor vectors using a trained transformer decoder and evaluates structural validity and descriptor similarity (same decoded for ligand SMILES generation).
+
 • Model Inference
  Loads pre-trained descriptor-to-SMILES model and vocabulary.
  Inputs substrate descriptors (_Sub).

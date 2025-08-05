@@ -156,4 +156,20 @@ v) Fingerprint density penalty (related to fragment diversity vs size)
 • Final SA Score Transformation: Raw scores are scaled and normalized to range from 1 (very easy to synthesize) to 10 (very difficult)
 • Batch Processing and Export final results.
 
+### 16. New Substrate Generation
+Script generates substrate SMILES from descriptor vectors using a trained transformer decoder and evaluates structural validity and descriptor similarity (same decoded for ligand SMILES generation).
+• Model Inference
+ Loads pre-trained descriptor-to-SMILES model and vocabulary.
+ Inputs substrate descriptors (_Sub).
+ Generates SMILES via decoding from descriptor embeddings.
+
+• SMILES Generation & Validation
+Converts token sequences to SMILES strings.
+Assesses chemical validity using RDKit.
+Cleans and formats output SMILES.
+
+• Similarity Analysis
+Calculates RDKit descriptors for generated SMILES.
+Computes cosine similarity to original descriptors.
+
 ---

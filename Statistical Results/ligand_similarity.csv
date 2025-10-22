@@ -1,0 +1,2 @@
+input_file,fingerprint,deduplicated_by_canonical_smiles,n_rows_input,n_valid_rows,n_unique_structures,n_pairs,mean_pairwise_tanimoto_similarity,median_pairwise_tanimoto_similarity,mean_pairwise_tanimoto_distance
+/Users/jfcaetano/Desktop/Generated_SMILES-pur01.csv,"Morgan(r=2, nBits=2048)",True,6770,4382,3869,7482646,0.12809593917012738,0.12048192771084337,0.8719040608298726

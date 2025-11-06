@@ -2,7 +2,8 @@
 Repository for the article "Inverse Ligand Design: A Generative Data-Driven Model for Optimizing Vanadyl-Based Epoxidation Catalysts"
 
 by José Ferraz-Caetano, Filipe Teixeira, M. Natália D. S. Cordeiro, Tomoyuki Miyao
-DOI: [https://doi.org/10.1016/j.jcat.2025.116537](url)
+
+Jpurnal of Catalysis, 2025 | DOI: [https://doi.org/10.1016/j.jcat.2025.116537](url)
 
 This repository contains Python scripts used for generative and ML models for vanadyl-based catalyst ligand design for the epoxidation of small alkenes and alcohols (ESA). The scripts are designed for various stages of descriptor calculation, model training, hyperparameter tuning, SMILES generation and result evaluation. Below is an explanation of the key scripts and their roles.
 
